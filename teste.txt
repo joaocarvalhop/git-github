@@ -1,1 +1,3 @@
 teste exercicio commit
+teste diff
+mostre o que mudou
